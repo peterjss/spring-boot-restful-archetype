@@ -1,8 +1,5 @@
 # spring-boot-restful-blank
 
-
-## Structer:
-
 App:
 
 * parent
