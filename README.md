@@ -1,15 +1,14 @@
 # spring-boot-restful-blank
 
+
 ## Structer:
 
-
-app:
+App:
 
 * parent
   - pom.xml
 * server
-  - src/main/java/
-    - ${package}/server/
+  - src/main/java/${package}/server/
     - config
     - dao
     - entity
@@ -17,4 +16,4 @@ app:
     - service
     - openapi
     - utils
-   - resource
+  - src/main/resource
